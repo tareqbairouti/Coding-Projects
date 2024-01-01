@@ -1,0 +1,1 @@
+CLASS sequence1: a class to manage a sequence of elements with capabilities to insert, remove, and traverse through the elements, while adhering to capacity limitations defined by the constant CAPACITY.
