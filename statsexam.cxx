@@ -2,8 +2,6 @@
 // Written by Michael Main (main@colorado.edu)
 // This program calls five test functions to test the statisitician class.
 // Maximum number of points from this test is 90.
-// The TA will give you another points (from 0 to 10) by looking into your program
-// Slightly modified by Zhigang Zhu for CCNY CSC212 Fall 2002
 
 #include <iostream>
 #include <cstdlib>
