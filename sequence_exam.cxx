@@ -1,6 +1,5 @@
 // FILE: sequence_exam.cxx
 // Written by: Michael Main (main@colorado.edu) - Oct 22, 1997
-// Modified by: Zhigang Zhu (zhu@cs.ccny.cuny.edu)- Sep 7, 2002
 // Non-interactive test program for the sequence class from Section 3.2 of
 // "Data Structures and Other Objects". Second Edition
 //
